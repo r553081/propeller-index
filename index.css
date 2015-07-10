@@ -148,6 +148,11 @@ a:visited {
 }
 
 /*BOOK A TABLE*/
+.book-a-table {
+  position: relative;
+  overflow: hidden;
+}
+
 .book-a-table-img img {
   width: 16%;
   margin-left: 17.5%;
@@ -156,41 +161,42 @@ a:visited {
 
 .overlay {
   opacity: 0.4;
-    height: 41.2%;
-    width: 100%;
-    background: black;
-    margin: -20.95% 0% 0% -0.5%;
-    position: relative;
+  height: 100%;
+  width: 16%;
+  background: black;
+  position: absolute;
+  top: 0%;
+  left: 17.5%;
 }
 
-.book-a-table-text {
+/*.book-a-table-text {
   color: white;
   font-family: 'Montserrat', Arial;
   font-size: 13pt;
   margin-left: 26.7%;
   margin-top: -110%;
   position: relative;
-}
+}*/
 
-.click-here-text {
+/*.click-here-text {
   color: white;
   font-family: 'Droid+Sans', Arial;
   font-size: 13pt;
   margin-left: 35%;
   margin-top: 37%;
   position: relative;
-}
+}*/
 
 /*BOOK A TABLE HOVER*/
-.book-a-table-hover {
+/*.book-a-table-hover {
   width: 16%;
   margin-left: 17.6%;
   margin-top: -20.9%;
-}
+}*/
 
-.book-a-table-hover:hover {
+/*.book-a-table-hover:hover {
   visibility: none;
-}
+}*/
 
 
 
