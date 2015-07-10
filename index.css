@@ -156,19 +156,19 @@ a:visited {
 
 .overlay {
   opacity: 0.4;
-  width: 16%;
-  height: 41.2%;
-  background: black;
-  margin: -20.95% 0% 0% 17.5%;
-  position: relative;
+    height: 41.2%;
+    width: 100%;
+    background: black;
+    margin: -20.95% 0% 0% -0.5%;
+    position: relative;
 }
 
 .book-a-table-text {
   color: white;
   font-family: 'Montserrat', Arial;
   font-size: 13pt;
-  margin-left: 21.7%;
-  margin-top: -17%;
+  margin-left: 26.7%;
+  margin-top: -110%;
   position: relative;
 }
 
@@ -176,10 +176,23 @@ a:visited {
   color: white;
   font-family: 'Droid+Sans', Arial;
   font-size: 13pt;
-  margin-left: 23%;
-  margin-top: 6%;
+  margin-left: 35%;
+  margin-top: 37%;
   position: relative;
 }
+
+/*BOOK A TABLE HOVER*/
+.book-a-table-hover {
+  width: 16%;
+  margin-left: 17.6%;
+  margin-top: -20.9%;
+}
+
+.book-a-table-hover:hover {
+  visibility: none;
+}
+
+
 
 
 
