@@ -99,6 +99,15 @@ a:visited {
 
 
 
+
+
+
+
+
+
+
+
+
 /*MAIN CONTENT CENTER*/
 .white-header-box {
   background-color: #ffffff;
@@ -137,6 +146,45 @@ a:visited {
   margin: 0;
   padding: 3% 23% 0 23%;
 }
+
+/*BOOK A TABLE*/
+.book-a-table-img img {
+  width: 16%;
+  margin-left: 17.5%;
+  margin-top: -3%;
+}
+
+.overlay {
+  opacity: 0.4;
+  width: 16%;
+  height: 41.2%;
+  background: black;
+  margin: -20.95% 0% 0% 17.5%;
+  position: relative;
+}
+
+.book-a-table-text {
+  color: white;
+  font-family: 'Montserrat', Arial;
+  font-size: 13pt;
+  margin-left: 21.7%;
+  margin-top: -17%;
+  position: relative;
+}
+
+.click-here-text {
+  color: white;
+  font-family: 'Droid+Sans', Arial;
+  font-size: 13pt;
+  margin-left: 23%;
+  margin-top: 6%;
+  position: relative;
+}
+
+
+
+
+
 
 
 
