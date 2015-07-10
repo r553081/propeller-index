@@ -1,0 +1,151 @@
+/*Top BG img*/
+.bg-img-top img {
+/*    background: url(C:\Users\Aylesbury\Documents\Propeller\Images\top-bg.jpg);*/
+    width: 100%;
+    positon: relative;
+    margin-top: -12%;
+}
+
+/*
+.menu .line-top {
+    width: 66%;
+    height: 1px;
+    background-color: #ffffff;
+    color: #ffffff;
+    position: absolute;
+    top: 70%;
+    left: 18%;
+}
+*/
+
+
+
+.bg-img-top .line-top {
+    width: 66%;
+    height: 1px;
+    background-color: #ffffff;
+    color: #ffffff;
+    position: relative;
+    margin-top: -31%;
+    margin-left: 18%;
+}
+
+.bg-img-top .line-bottom {
+    width: 66%;
+    height: 1px;
+    background-color: #ffffff;
+    color: #ffffff;
+    position: relative;
+    margin-top: 3%;
+    margin-left: 18%;
+}
+
+
+/*Logo*/
+.logo-img img {
+    width: 22%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: none;
+}
+
+
+
+/*MENU TEXT*/
+ul {
+  font-family: 'Montserrat', cursive;
+  font-style: normal;
+  font-size: 15px;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  width: 101%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: -2%;
+}
+
+li {
+    display: inline-block;
+		width: 11%;
+}
+
+a:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+
+
+/*BG IMAGE CENTER*/
+.bg-img-center {
+    width: 100%;
+    background-color: #000000;
+    z-index: -98;
+    padding: 15% 0 15% 0;
+    margin-top: 28%;
+}
+
+
+
+
+/*MAIN CONTENT CENTER*/
+.white-header-box {
+  background-color: #ffffff;
+  width: 65%;
+  padding: 4% 0 4% 0;
+  margin: 0 auto;
+  position: relative;
+  margin-top: -41%;
+  z-index: 0;
+}
+
+.white-header-box .header-text {
+  font-family: 'Montserrat', Arial;
+  font-size: 32pt;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.white-header-box .header-sub-text {
+  font-family: 'Droid+Sans', Arial;
+  font-size: 13pt;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  text-align: center;
+  color: #000000;
+  list-style-type: none;
+  margin: 0;
+  padding: 3% 23% 0 23%;
+}
+
+
+
+
+/*BG IMAGE BOTTOM*/
+
+.bg-img-bottom img{
+    width: 100%;
+    z-index: -99;
+    position: absolute;
+    top: 50%;
+}
