@@ -1,8 +1,8 @@
 /*Top BG img*/
 .bg-img-top img {
-/*    background: url(C:\Users\Aylesbury\Documents\Propeller\Images\top-bg.jpg);*/
+    background-image: url(\Images\top-bg.jpg);
+    background-repeat: no-repeat;
     width: 100%;
-    positon: relative;
     margin-top: -12%;
 }
 
